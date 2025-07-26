@@ -323,6 +323,11 @@ curl -X POST "http://localhost:8000/api/clear/" \
 - Efficient queries with select_related/prefetch_related
 - Optimized aggregations with proper output_field specifications
 
+
+## sample images of analytics
+![Analytics Screenshot](Screenshot 2025-07-26 at 3.33.56 PM.png)
+
+
 ## 🤝 Contributing
 
 1. Fork the repository
