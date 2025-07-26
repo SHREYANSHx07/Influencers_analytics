@@ -1,0 +1,56 @@
+source,campaign,influencer_name,user_id,product,date,orders,revenue,brand
+Google Analytics,Summer Sale,Sarah Johnson,user_001,Product A,2024-01-15,5,250.00,Nike
+Shopify,Spring Campaign,Mike Chen,user_002,Product B,2024-01-20,3,150.00,Adidas
+Google Analytics,Winter Promo,Emma Davis,user_003,Product C,2024-01-25,8,400.00,Apple
+Shopify,Holiday Special,Alex Rodriguez,user_004,Product D,2024-01-30,2,100.00,Samsung
+Google Analytics,Back to School,Lisa Wang,user_005,Product E,2024-02-05,6,300.00,Coca-Cola
+Shopify,Valentine's Day,David Kim,user_006,Product F,2024-02-10,4,200.00,Pepsi
+Google Analytics,Spring Collection,Maria Garcia,user_007,Product G,2024-02-15,7,350.00,McDonald's
+Shopify,Summer Launch,James Wilson,user_008,Product H,2024-02-20,5,250.00,KFC
+Google Analytics,Fall Fashion,Sophie Brown,user_009,Product I,2024-02-25,3,150.00,Nike
+Shopify,Winter Collection,Ryan Lee,user_010,Product J,2024-03-01,6,300.00,Adidas
+Google Analytics,Spring Sale,Jessica Martinez,user_011,Product K,2024-03-05,4,200.00,Apple
+Shopify,Summer Promo,Carlos Rodriguez,user_012,Product L,2024-03-10,8,400.00,Samsung
+Google Analytics,Back to School,Amanda Thompson,user_013,Product M,2024-03-15,5,250.00,Coca-Cola
+Shopify,Holiday Campaign,Kevin Zhang,user_014,Product N,2024-03-20,3,150.00,Pepsi
+Google Analytics,Valentine's Special,Rachel Green,user_015,Product O,2024-03-25,6,300.00,McDonald's
+Shopify,Spring Launch,Marcus Johnson,user_016,Product P,2024-03-30,4,200.00,KFC
+Google Analytics,Summer Collection,Natalie Chen,user_017,Product Q,2024-04-05,7,350.00,Nike
+Shopify,Fall Fashion,Brandon Lee,user_018,Product R,2024-04-10,5,250.00,Adidas
+Google Analytics,Winter Sale,Isabella Garcia,user_019,Product S,2024-04-15,3,150.00,Apple
+Shopify,Spring Promo,Daniel Kim,user_020,Product T,2024-04-20,6,300.00,Samsung
+Google Analytics,Summer Campaign,Olivia Wilson,user_021,Product U,2024-04-25,4,200.00,Coca-Cola
+Shopify,Back to School,Christopher Brown,user_022,Product V,2024-04-30,8,400.00,Pepsi
+Google Analytics,Holiday Special,Sophia Davis,user_023,Product W,2024-05-05,5,250.00,McDonald's
+Shopify,Valentine's Day,Andrew Miller,user_024,Product X,2024-05-10,3,150.00,KFC
+Google Analytics,Spring Collection,Victoria Taylor,user_025,Product Y,2024-05-15,6,300.00,Nike
+Shopify,Summer Launch,Jonathan Anderson,user_026,Product Z,2024-05-20,4,200.00,Adidas
+Google Analytics,Fall Fashion,Mia Rodriguez,user_027,Product AA,2024-05-25,7,350.00,Apple
+Shopify,Winter Collection,Robert Chen,user_028,Product BB,2024-05-30,5,250.00,Samsung
+Google Analytics,Spring Sale,Grace Lee,user_029,Product CC,2024-06-05,3,150.00,Coca-Cola
+Shopify,Summer Promo,Michael Johnson,user_030,Product DD,2024-06-10,6,300.00,Pepsi
+Google Analytics,Back to School,Emily Wang,user_031,Product EE,2024-06-15,4,200.00,McDonald's
+Shopify,Holiday Campaign,Thomas Brown,user_032,Product FF,2024-06-20,8,400.00,KFC
+Google Analytics,Valentine's Special,Ava Garcia,user_033,Product GG,2024-06-25,5,250.00,Nike
+Shopify,Spring Launch,William Kim,user_034,Product HH,2024-06-30,3,150.00,Adidas
+Google Analytics,Summer Collection,Chloe Martinez,user_035,Product II,2024-07-05,6,300.00,Apple
+Shopify,Fall Fashion,Ethan Wilson,user_036,Product JJ,2024-07-10,4,200.00,Samsung
+Google Analytics,Winter Sale,Zoe Anderson,user_037,Product KK,2024-07-15,7,350.00,Coca-Cola
+Shopify,Spring Promo,Alexander Lee,user_038,Product LL,2024-07-20,5,250.00,Pepsi
+Google Analytics,Summer Campaign,Madison Taylor,user_039,Product MM,2024-07-25,3,150.00,McDonald's
+Shopify,Back to School,Benjamin Chen,user_040,Product NN,2024-07-30,6,300.00,KFC
+Google Analytics,Holiday Special,Lily Johnson,user_041,Product OO,2024-08-05,4,200.00,Nike
+Shopify,Valentine's Day,Samuel Brown,user_042,Product PP,2024-08-10,8,400.00,Adidas
+Google Analytics,Spring Collection,Hannah Davis,user_043,Product QQ,2024-08-15,5,250.00,Apple
+Shopify,Summer Launch,Nathan Wilson,user_044,Product RR,2024-08-20,3,150.00,Samsung
+Google Analytics,Fall Fashion,Aria Garcia,user_045,Product SS,2024-08-25,6,300.00,Coca-Cola
+Shopify,Winter Collection,Isaac Kim,user_046,Product TT,2024-08-30,4,200.00,Pepsi
+Google Analytics,Spring Sale,Scarlett Martinez,user_047,Product UU,2024-09-05,7,350.00,McDonald's
+Shopify,Summer Promo,Owen Lee,user_048,Product VV,2024-09-10,5,250.00,KFC
+Google Analytics,Back to School,Luna Anderson,user_049,Product WW,2024-09-15,3,150.00,Nike
+Shopify,Holiday Campaign,Caleb Taylor,user_050,Product XX,2024-09-20,6,300.00,Adidas
+Google Analytics,Valentine's Special,Penelope Chen,user_051,Product YY,2024-09-25,4,200.00,Apple
+Shopify,Spring Launch,Gabriel Wilson,user_052,Product ZZ,2024-09-30,8,400.00,Samsung
+Google Analytics,Summer Collection,Riley Brown,user_053,Product AAA,2024-10-05,5,250.00,Coca-Cola
+Shopify,Fall Fashion,Leo Johnson,user_054,Product BBB,2024-10-10,3,150.00,Pepsi
+Google Analytics,Winter Sale,Nora Davis,user_055,Product CCC,2024-10-15,6,300.00,McDonald's 
