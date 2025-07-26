@@ -13,5 +13,15 @@ numpy==1.26.2
 requests==2.31.0
 streamlit-aggrid==0.3.4
 
-# Development
-python-dotenv==1.0.0 
+# Development & Environment
+python-dotenv==1.0.0
+
+# Additional Dependencies (automatically installed with above)
+# - uuid (built-in Python module)
+# - datetime (built-in Python module)
+# - json (built-in Python module)
+# - csv (built-in Python module)
+# - os (built-in Python module)
+# - sys (built-in Python module)
+# - pathlib (built-in Python module)
+# - io (built-in Python module) 
